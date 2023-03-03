@@ -8,5 +8,5 @@
 
 📧 Este é meu perfil no Linkedin:https://www.linkedin.com/in/kelly-christina-109196131
 
-<img src="![download20230304210114](https://user-images.githubusercontent.com/112448102/222605346-38fb6147-a03b-423e-866d-99ac5ee159aa.png)" alt="Gif" align="right" width="500px">
 
+![download20230304210114](https://user-images.githubusercontent.com/112448102/222605346-38fb6147-a03b-423e-866d-99ac5ee159aa.png)
